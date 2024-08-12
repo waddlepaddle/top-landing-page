@@ -4,7 +4,6 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    /* justify-content: space-evenly; */
 }
 
 header,
@@ -94,6 +93,7 @@ button {
     justify-content: center;
     gap: 16px;
     padding-top: 20px;
+    padding-bottom: 50px;
 }
 
 .second-panel .header {
