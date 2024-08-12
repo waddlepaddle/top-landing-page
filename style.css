@@ -171,3 +171,10 @@ img {
 .call-box button {
     border: 1px solid white;
 }
+
+.footer {
+    background-color: #1f2937;
+    padding: 15px;
+    color: #e5e7eb;
+    text-align: center;
+}
