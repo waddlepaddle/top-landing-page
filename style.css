@@ -123,3 +123,28 @@ img {
     color: #636363;
     font-size: 15px;
 }
+
+.third-panel {
+    background-color: #e5e7eb;
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.quote, 
+.quote-by {
+    width: 650px;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 20px;
+}
+
+.quote-by {
+    text-align: right;
+    padding-right: 20px;
+    font-weight: bold;
+}
