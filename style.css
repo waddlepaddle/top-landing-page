@@ -148,3 +148,26 @@ img {
     padding-right: 20px;
     font-weight: bold;
 }
+
+.call-box {
+    background-color: #3882f6;
+    height: 120px;
+    width: 800px;
+    border-radius: 20px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.call-box .main-text {
+    font-size: 20px;
+}
+
+.call-box .secondary-text {
+    font-size: 13px;
+}
+
+.call-box button {
+    border: 1px solid white;
+}
