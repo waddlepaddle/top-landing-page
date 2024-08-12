@@ -118,3 +118,8 @@ img {
     border-radius: 25px;
     border: 4px solid #3882f6;
 }
+
+.text {
+    color: #636363;
+    font-size: 15px;
+}
