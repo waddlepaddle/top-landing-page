@@ -153,8 +153,8 @@ img {
     background-color: #3882f6;
     height: 120px;
     width: 800px;
-    border-radius: 20px;
-    margin: 50px auto;
+    border-radius: 10px;
+    margin: 80px auto;
     display: flex;
     justify-content: space-around;
     align-items: center;
